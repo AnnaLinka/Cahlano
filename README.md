@@ -1,4 +1,5 @@
 # Cahlano
 Simple one-page website of handmade home decoration.
+https://annalinka.github.io/Cahlano/
 
-Learning Bootstrap 4 using example template.
+Build with Bootstrap 4.
